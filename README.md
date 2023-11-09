@@ -8,6 +8,6 @@ https://learn.microsoft.com/en-us/previous-versions/windows/desktop/wmipicmp/win
 
 The script is written in vbscript and uses windows management instrumentation. Use the following command line to run the script:
 
-`cscript /NOLOGO ping2.vbs`
+`cscript /NOLOGO ping.vbs`
 
 The script tries to ping a host every 2 seconds and emits an error if the ping fails. Abort the script with Ctrl-C.
